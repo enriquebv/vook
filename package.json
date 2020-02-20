@@ -1,0 +1,10 @@
+{
+  "name": "vook",
+  "version": "0.1.0",
+  "description": "Vue components showcase.",
+  "main": "index.js",
+  "repository": "https://github.com/enriquebv/vook.git",
+  "author": "Enrique Bernabeu <ebvcontacto@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
